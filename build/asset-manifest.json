@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peta_petaan/static/css/main.9e86b300.css",
+    "main.js": "/peta_petaan/static/js/main.efa05af2.js",
+    "static/js/453.2364782b.chunk.js": "/peta_petaan/static/js/453.2364782b.chunk.js",
+    "static/media/logo.svg": "/peta_petaan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/peta_petaan/index.html",
+    "main.9e86b300.css.map": "/peta_petaan/static/css/main.9e86b300.css.map",
+    "main.efa05af2.js.map": "/peta_petaan/static/js/main.efa05af2.js.map",
+    "453.2364782b.chunk.js.map": "/peta_petaan/static/js/453.2364782b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e86b300.css",
+    "static/js/main.efa05af2.js"
+  ]
+}
