@@ -1,7 +1,7 @@
 {
   "name": "peta_petaan",
   "version": "0.1.0",
-  "homepage": "https://samxelsg.github.io/peta_petaan",
+  "homepage": "https://samxelsg.github.io/dest",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
